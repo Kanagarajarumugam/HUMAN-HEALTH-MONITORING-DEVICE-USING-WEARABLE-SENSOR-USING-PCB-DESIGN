@@ -1,0 +1,27 @@
+ABSTRACT:
+Human health monitoring has become increasingly important in the modern era, with 
+wearable technology playing a pivotal role in providing real-time data for medical 
+professionals and individuals alike. This paper presents the development of a wearable 
+health monitoring system utilizing sensors integrated into a custom-designed printed 
+circuit board (PCB). The system incorporates various biosensors such as heart rate, body 
+temperature, electrocardiogram (ECG), and accelerometers to monitor vital physiological 
+parameters. The PCB design ensures minimal power consumption, compactness, and ease 
+of integration into wearable devices, while maintaining reliability and accuracy in sensor 
+readings. Data collected by the sensors is processed and transmitted wirelessly to mobile 
+devices or healthcare platforms for further analysis. The proposed system aims to provide 
+continuous, non-invasive monitoring, offering potential benefits in the early detection of 
+health issues, personalized healthcare, and chronic disease management. Through the use 
+of innovative PCB design and sensor integration, this approach enhances the accessibility 
+and practicality of wearable health monitoring systems for everyday use.
+
+OBJECTIVE:
+The primary objective of this project is to design and develop a wearable health 
+monitoring system that integrates various biosensors into a compact, efficient, and 
+reliable printed circuit board (PCB). To integrate multiple health-monitoring sensors 
+such as heart rate, body temperature, electrocardiogram (ECG), and motion sensors 
+(accelerometer) onto a single PCB for continuous and real-time tracking of vital 
+health parameters. To create a custom PCB that optimizes space, minimizes power 
+consumption, and ensures stability, enabling its use in portable and wearable 
+devices. To design a system that can wirelessly transmit collected health data to 
+mobile devices or cloud-based healthcare platforms for analysis, ensuring real-time 
+monitoring and alerts.
